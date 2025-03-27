@@ -1,4 +1,4 @@
 # bt1
 
 Demo
-![](asset/demo.jpg)
+![](asset/demo.png)
